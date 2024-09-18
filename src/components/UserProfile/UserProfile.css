@@ -1,0 +1,28 @@
+.eachUserCard {
+  padding: 12px;
+  list-style-type: none;
+  background-color: rgb(233, 230, 226);
+  border-radius: 24px;
+  margin: 7px;
+}
+
+.btn {
+  padding: 8px;
+  width: 100px;
+  margin: 7px;
+  border: none;
+  border-radius: 14px;
+  background-color: aliceblue;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.user-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
